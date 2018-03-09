@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    style="@style/text_label_style"
+    android:text="这是标签">
+
+</TextView>
